@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Task	day4.cpp	/^class Task {$/;"	c	file:
+get_result	day4.cpp	/^    	int get_result()$/;"	f	class:Task	file:
+main	day4.cpp	/^int main()$/;"	f
+passports	day4.cpp	/^	vector<map <string, string>> passports;$/;"	m	class:Task	file:
+print_output	day4.cpp	/^    	void print_output(int result) $/;"	f	class:Task	file:
+read_input	day4.cpp	/^    	void read_input()$/;"	f	class:Task	file:
+solve	day4.cpp	/^    	void solve()$/;"	f	class:Task
+valid_byr	day4.cpp	/^	bool valid_byr (int byr) {$/;"	f	class:Task	file:
+valid_eyr	day4.cpp	/^	bool valid_eyr (int eyr) {$/;"	f	class:Task	file:
+valid_iyr	day4.cpp	/^	bool valid_iyr (int iyr) {$/;"	f	class:Task	file:
